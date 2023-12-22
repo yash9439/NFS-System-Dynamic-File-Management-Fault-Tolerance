@@ -1,9 +1,6 @@
-# final-project-44
+# NFS-System-Dynamic-File-Management-Fault-Tolerance
 
-### Team Information
-
-#### Team Number : 44
-#### Team Members:
+### Contributers
 
 - Amey Choudhary , 2021113017
 - Jainit Bafna ,  2021114003
