@@ -1,0 +1,93 @@
+Wed Nov 22 03:37:45 2023: Initializing Naming Server...
+Wed Nov 22 03:37:45 2023: Naming Server started listening...
+Wed Nov 22 03:37:50 2023: Received storage server 1 details:
+Wed Nov 22 03:37:50 2023: IP Address: 127.0.0.2
+Wed Nov 22 03:37:50 2023: NM Port: 59593
+Wed Nov 22 03:37:50 2023: Client Port: 46649
+Wed Nov 22 03:37:50 2023: SS Port: 44719
+Wed Nov 22 03:37:50 2023: SS Port: 39701
+Wed Nov 22 03:37:50 2023: Accessible Paths: .
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./yoyo
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./..zip
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./2d
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./s
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./folder1
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./folder1/abcd
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./folder1/abcd/jainit
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./folder1/nit
+Wed Nov 22 03:37:50 2023: Accessible Paths: ./asdfasdf
+Wed Nov 22 03:37:50 2023: Registration Successful
+Wed Nov 22 03:37:51 2023: Received storage server 2 details:
+Wed Nov 22 03:37:51 2023: IP Address: 127.0.0.2
+Wed Nov 22 03:37:51 2023: NM Port: 40559
+Wed Nov 22 03:37:51 2023: Client Port: 58973
+Wed Nov 22 03:37:51 2023: SS Port: 59839
+Wed Nov 22 03:37:51 2023: SS Port: 58341
+Wed Nov 22 03:37:51 2023: Accessible Paths: .
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0/src
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0/src/jainit
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0/src/temp
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0/folder1
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0/folder1/nit
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./Backup0/asdfasdf
+Wed Nov 22 03:37:51 2023: Accessible Paths: ./s
+Wed Nov 22 03:37:51 2023: Registration Successful
+Wed Nov 22 03:37:52 2023: Received storage server 3 details:
+Wed Nov 22 03:37:52 2023: IP Address: 127.0.0.2
+Wed Nov 22 03:37:52 2023: NM Port: 48051
+Wed Nov 22 03:37:52 2023: Client Port: 57717
+Wed Nov 22 03:37:52 2023: SS Port: 38627
+Wed Nov 22 03:37:52 2023: SS Port: 54199
+Wed Nov 22 03:37:52 2023: Accessible Paths: .
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1/src
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1/src/jainit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1/src/temp
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1/folder1
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1/folder1/nit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./Backup1/asdfasdf
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./s
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/abcd
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/abcd/jainit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/jaainit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/jaainit/abcd
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/jaainit/abcd/jainit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/folder1
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/folder1/abcd
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/folder1/abcd/jainit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/folder1/nit
+Wed Nov 22 03:37:52 2023: Accessible Paths: ./jainii/asdf
+Wed Nov 22 03:37:52 2023: Registration Successful
+Wed Nov 22 03:37:53 2023: Client connected...
+Wed Nov 22 03:38:11 2023: Received command: DELETE ./jainii
+Wed Nov 22 03:38:11 2023: Sending acknowledgement to client at Wed Nov 22 03:38:11 2023
+ for command DELETE ./jainii
+Wed Nov 22 03:38:11 2023: Found server for path ./jainii
+Wed Nov 22 03:38:11 2023: IP: 127.0.0.2
+Wed Nov 22 03:38:11 2023: Port: 48051
+Wed Nov 22 03:38:26 2023: Received command: COPY ./folder1 ./jainii
+Wed Nov 22 03:38:26 2023: Sending acknowledgement to client at Wed Nov 22 03:38:26 2023
+ for command COPY ./folder1 ./jainii
+Wed Nov 22 03:38:26 2023: COPY Started
+Wed Nov 22 03:38:26 2023: Path Third: ./jainii
+Wed Nov 22 03:38:26 2023: Path: ./folder1
+Wed Nov 22 03:38:26 2023: Found server for path ./folder1
+Wed Nov 22 03:38:26 2023: IP: 127.0.0.2
+Wed Nov 22 03:38:26 2023: Port: 44719
+Wed Nov 22 03:38:26 2023: Found server for path ./jainii
+Wed Nov 22 03:38:26 2023: IP: 127.0.0.2
+Wed Nov 22 03:38:26 2023: Port: 54199
+Wed Nov 22 03:38:26 2023: Sockets forming is started
+Wed Nov 22 03:38:26 2023: 1 Socket Formed
+Wed Nov 22 03:38:26 2023: Sockets Formed For Copying
+Wed Nov 22 03:38:26 2023: Sending
+Wed Nov 22 03:38:26 2023: Sent 645 bytes
+Wed Nov 22 03:38:26 2023: Next Iter
+Wed Nov 22 03:38:26 2023: Connection closed by peer
+Wed Nov 22 03:38:26 2023: Data Transfer Complete
+Wed Nov 22 03:38:26 2023: Data Transfer Complete
+Wed Nov 22 03:38:26 2023: Socket Closed
+Wed Nov 22 03:38:26 2023: Socket Closed
+Wed Nov 22 03:39:50 2023: Client disconnected
